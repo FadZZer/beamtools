@@ -1,0 +1,18 @@
+---------------
+ver 1.0
+Added type func.
+Added support for downing
+
+bugfixes: none
+---------------
+ver 1.5
+Added better GUI (DoSx5 year 1998)
+
+bugfixes: fixed the [FATAL] Missing file tpm1.temp
+---------------
+Ver 3.9 (latest)
+Added very clean UI
+DoSx7 year 2001
+Added emulator so there is no problems
+
+bugfixes: fixed CD func, insertbmp and infecting
